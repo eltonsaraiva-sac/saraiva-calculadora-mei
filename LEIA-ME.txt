@@ -1,0 +1,17 @@
+SARAIVA ASSESSORIA CONTÁBIL — CALCULADORA MEI 2026
+
+PUBLICAÇÃO NA VERCEL
+1. Descompacte o ZIP.
+2. Envie os arquivos index.html, a pasta assets/ e este LEIA-ME para um repositório GitHub (index.html deve ficar na raiz).
+3. Acesse https://vercel.com/new e importe o repositório.
+4. Selecione Framework Preset: Other. Não informe comando de build; publique como site estático.
+5. Clique em Deploy. Use o domínio gerado na bio do Instagram.
+
+PERSONALIZAÇÃO
+- Marca: Saraiva Assessoria Contábil
+- WhatsApp: +55 99 98412-4120
+- Logo: assets/logo-saraiva.png
+- Cores: azul #006ABE, laranja #FF5613, verde-petróleo #215965
+
+ATENÇÃO TRIBUTÁRIA
+A ferramenta é educativa e não calcula o imposto final de IRPF nem decide a obrigatoriedade de entrega da declaração. O limite geral do MEI configurado para 2026 é R$ 81.000. Os percentuais indicativos selecionáveis são 8% (comércio/indústria e transporte de cargas), 16% (transporte de passageiros) e 32% (serviços em geral). Antes de divulgar, valide a aplicação dos percentuais ao CNAE e à operação concreta, o lucro efetivamente distribuído, a escrituração e as regras vigentes. Atualize o código quando houver mudança normativa.
